@@ -8,10 +8,12 @@
 
 
 <!-- TITULO E DESCRIÇAO -->
-<h2 align="center">
-    <a href="link">Nome do Projeto</a>
-</h2>
-<p align="center">Descrição do projeto, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+<div align="center">
+	<h3>Nome do Projeto</h3>
+	<p align="center">Descrição do projeto, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+</div>
+
+
 
 
 
@@ -19,7 +21,7 @@
 
 <!-- STATUS DO PROJETO -->
 <h4 align="center"> 
-	🚧 NomeProjeto 1.0 🚀 seu status... 🚧 
+	🚧 Em construção 🚧 
 </h4>
 
 
@@ -39,7 +41,7 @@
 
 <!-- OU EM ARVORE -->
 <!--ts-->
-## Conteúdo
+## 🗒️ Conteúdo
    * [Sobre](#Sobre)
    * [Tabela de Conteudo](#tabela-de-conteudo)
    * [Instalação](#instalacao)
@@ -67,12 +69,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <!-- DEMONSTRAÇÃO DA APLICAÇÃO -->
 <!-- Colocar gifs e links da hospedagem -->
-## Demonstração:
+## 📺 Demonstração:
 <p align="center">
   <img alt="Nome do gif" src="endereço_Do_Gif.gif">
 </p>
 <div align="center">
-<a href="https://google.com">Pode acessar o projeto clicando aqui </a>
+<a href="https://google.com">Acesse a aplicação clicando aqui</a>
 </div>
 
 
@@ -94,21 +96,21 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 <!-- PRE-REQUISITOS -->
-## Pré-requisitos:
+## ⚠️ Pré-requisitos:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 
 
 <!-- RODANDO A APLICAÇÃO -->
-## Rodando a aplicação:
+## 🔥 Rodando a aplicação:
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 
 
 <!-- AUTOR -->
-## Autor
+## 🤓 Autor
 <div align="center" >
 <a href="https://www.linkedin.com/in/joaogabrieldev/">
  <img src="https://avatars.githubusercontent.com/u/43724692?v=4" width="200px;" alt="perfil"/>
