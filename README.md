@@ -69,9 +69,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 <!-- DEMONSTRAÇÃO DA APLICAÇÃO -->
 <!-- Colocar gifs e links da hospedagem -->
-## 📺 Demonstração:
+## 📺 Demonstração
 <p align="center">
-  <img alt="Nome do gif" src="endereço_Do_Gif.gif">
+  <img alt="Nome do gif" src="/demo.gif">
 </p>
 <div align="center">
 <a href="https://google.com">Acesse a aplicação clicando aqui</a>
@@ -82,7 +82,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 <!-- TECNOLOGIAS UTILIZADAS -->
-## 🛠 Tecnologias utilizadas:
+## 🛠 Tecnologias utilizadas
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Expo](https://expo.io/)
@@ -96,14 +96,14 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 <!-- PRE-REQUISITOS -->
-## ⚠️ Pré-requisitos:
+## ⚠️ Pré-requisitos
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
 
 
 <!-- RODANDO A APLICAÇÃO -->
-## 🔥 Rodando a aplicação:
+## 🔥 Rodando a aplicação
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 
