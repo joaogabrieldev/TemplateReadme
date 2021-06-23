@@ -1,6 +1,6 @@
 <!-- BANNER OU LOGO -->
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#TituloProjeto" src="/" />
+    <img alt="NextLevelWeek" title="#TituloProjeto" src="/banner.png" />
 </h1>
 
 
