@@ -54,8 +54,9 @@
 
 <!-- DEMONSTRAÇÃO DA APLICAÇÃO -->
 <!-- Colocar gifs e links da hospedagem -->
-
-
+<p align="center">
+  <img alt="Demo on Netlify" src="/rocketshoes-native_gsjofr">
+</p>
 
 
 
